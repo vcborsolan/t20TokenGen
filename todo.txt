@@ -1,0 +1,13 @@
+gerar ficha vai ser um tipo map{
+    1 -> função rolar dados
+    2 -> enum de classes
+    3 -> enum de raças
+    4 -> atributos
+    4 -> pericias
+    5 -> habilidades
+    6 -> --param to use custom rules({defeito , idade , devoto , etc ...})
+    7 -> magias
+    8 -> serealizer to json?
+    9 -> refatorar e usar concorrencia
+    10 -> API
+}
